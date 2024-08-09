@@ -1,0 +1,12 @@
+.container{
+  min-width: 100vw;
+  height: 100vh;
+  display: flex;
+}
+.task{
+  display: flex;
+  gap: 1rem;
+  background-color: #21212d;
+  padding: 1rem;
+  width: 100%;
+}
